@@ -1,4 +1,4 @@
-FROM registry.gitlab.com/chesszebra/docker/node:8.1-cli
+FROM chesszebra/node:8.5
 
 # Run as root
 USER root
